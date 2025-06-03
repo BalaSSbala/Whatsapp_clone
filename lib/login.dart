@@ -68,7 +68,7 @@ class _LoginState extends State<Login> with SingleTickerProviderStateMixin {
             // Selected tab text/icon color
             unselectedLabelColor: Colors.white70,
             // Unselected tab text/icon color (slightly faded white)
-            indicatorColor: Colors.black,
+            indicatorColor: Colors.white,
             labelStyle: TextStyle(fontWeight: FontWeight.bold),
           ),
         ),
